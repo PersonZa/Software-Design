@@ -7,6 +7,7 @@ public class Simple{
     System.out.println("Welcome to GitHub");
     
      System.out.println("What age : ");
+     
      String age = scanner.nextLine();
      System.out.println("Age : " + age);
 
