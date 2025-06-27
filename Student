@@ -1,7 +1,12 @@
 public class Studnt{
-    private String id;
+
     private String name;
-    public Student(){
-        
+    public String getName(){
+        return name;
     }
+
+    public Simple(){
+
+    }
+
 }
